@@ -1,5 +1,6 @@
 # valiant_hellhound_mc_cut
-FiveM resource custom MC cut
+FiveM resource custom MC cut MADE BY VALIANT STAFF FOR VALIANT STAFF
+You may not take credit for this resource 
 
 FiveM ready custom MC cut
 
